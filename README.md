@@ -1,7 +1,8 @@
 # Period-Tracker-
-The Period Tracker Website is a well-structured and user-friendly platform designed to help users monitor their menstrual cycles efficiently. With features like cycle prediction, symptom logging, period date marking, profile management, and dark mode, the website ensures a comfortable and streamlined experience.
-
+The Period Tracker Website is a well-structured and user-friendly platform designed to help users monitor their menstrual cycles efficiently. With features like cycle prediction, symptom logging, period date marking, profile management, and dark mode, the website ensures a comfortable and streamlined experience. HTML, CSS, JavaScript and Bootstrap are used to develop this website.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Key Features:
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 1.Navbar & Calendar:
 Includes Profile, Track Period, Upgrade, and Login.
 Users can mark and view period dates directly from the dropdown.
